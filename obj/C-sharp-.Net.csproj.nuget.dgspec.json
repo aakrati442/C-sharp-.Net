@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\AKRITI GUPTA\\OneDrive\\Desktop\\.Net\\C-sharp-.Net\\C-sharp-.Net.csproj": {}
+    "C:\\Users\\AKRITI GUPTA\\OneDrive\\Desktop\\C# Net\\C-sharp-.Net\\C-sharp-.Net.csproj": {}
   },
   "projects": {
-    "C:\\Users\\AKRITI GUPTA\\OneDrive\\Desktop\\.Net\\C-sharp-.Net\\C-sharp-.Net.csproj": {
+    "C:\\Users\\AKRITI GUPTA\\OneDrive\\Desktop\\C# Net\\C-sharp-.Net\\C-sharp-.Net.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\AKRITI GUPTA\\OneDrive\\Desktop\\.Net\\C-sharp-.Net\\C-sharp-.Net.csproj",
+        "projectUniqueName": "C:\\Users\\AKRITI GUPTA\\OneDrive\\Desktop\\C# Net\\C-sharp-.Net\\C-sharp-.Net.csproj",
         "projectName": "C-sharp-.Net",
-        "projectPath": "C:\\Users\\AKRITI GUPTA\\OneDrive\\Desktop\\.Net\\C-sharp-.Net\\C-sharp-.Net.csproj",
+        "projectPath": "C:\\Users\\AKRITI GUPTA\\OneDrive\\Desktop\\C# Net\\C-sharp-.Net\\C-sharp-.Net.csproj",
         "packagesPath": "C:\\Users\\AKRITI GUPTA\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\AKRITI GUPTA\\OneDrive\\Desktop\\.Net\\C-sharp-.Net\\obj\\",
+        "outputPath": "C:\\Users\\AKRITI GUPTA\\OneDrive\\Desktop\\C# Net\\C-sharp-.Net\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\AKRITI GUPTA\\AppData\\Roaming\\NuGet\\NuGet.Config"
