@@ -16,12 +16,23 @@ Console.Write("Hi");    //continue in same line
 
 //variables and data types
 
-int a=10;
-int b=29;
-Console.WriteLine(a+b);
-float f=3.0F;
-bool isKing=true;
-string imp=Console.ReadLine();
-Console.WriteLine(imp);
+// int a=10;
+// int b=29;
+// Console.WriteLine(a+b);
+// float f=3.0F;
+// bool isKing=true;
+
+
+//input taking
+
+// string imp=Console.ReadLine();
+// Console.WriteLine(imp);
+
+Console.WriteLine("Enter your name");
+string name=Console.ReadLine();
+Console.WriteLine("Hello "+ name);
+
+
+
 
 
