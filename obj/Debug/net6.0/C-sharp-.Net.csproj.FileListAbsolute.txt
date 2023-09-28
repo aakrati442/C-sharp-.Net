@@ -28,3 +28,18 @@ C:\Users\AKRITI GUPTA\OneDrive\Desktop\C# Net\C-sharp-.Net\obj\Debug\net6.0\refi
 C:\Users\AKRITI GUPTA\OneDrive\Desktop\C# Net\C-sharp-.Net\obj\Debug\net6.0\C-sharp-.Net.pdb
 C:\Users\AKRITI GUPTA\OneDrive\Desktop\C# Net\C-sharp-.Net\obj\Debug\net6.0\C-sharp-.Net.genruntimeconfig.cache
 C:\Users\AKRITI GUPTA\OneDrive\Desktop\C# Net\C-sharp-.Net\obj\Debug\net6.0\ref\C-sharp-.Net.dll
+C:\Users\AKRITI GUPTA\OneDrive\Desktop\C#\C-sharp-.Net\obj\Debug\net6.0\C-sharp-.Net.csproj.AssemblyReference.cache
+C:\Users\AKRITI GUPTA\OneDrive\Desktop\C#\C-sharp-.Net\obj\Debug\net6.0\C-sharp-.Net.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AKRITI GUPTA\OneDrive\Desktop\C#\C-sharp-.Net\obj\Debug\net6.0\C-sharp-.Net.AssemblyInfoInputs.cache
+C:\Users\AKRITI GUPTA\OneDrive\Desktop\C#\C-sharp-.Net\obj\Debug\net6.0\C-sharp-.Net.AssemblyInfo.cs
+C:\Users\AKRITI GUPTA\OneDrive\Desktop\C#\C-sharp-.Net\obj\Debug\net6.0\C-sharp-.Net.csproj.CoreCompileInputs.cache
+C:\Users\AKRITI GUPTA\OneDrive\Desktop\C#\C-sharp-.Net\obj\Debug\net6.0\C-sharp-.Net.dll
+C:\Users\AKRITI GUPTA\OneDrive\Desktop\C#\C-sharp-.Net\obj\Debug\net6.0\refint\C-sharp-.Net.dll
+C:\Users\AKRITI GUPTA\OneDrive\Desktop\C#\C-sharp-.Net\obj\Debug\net6.0\C-sharp-.Net.pdb
+C:\Users\AKRITI GUPTA\OneDrive\Desktop\C#\C-sharp-.Net\bin\Debug\net6.0\C-sharp-.Net.exe
+C:\Users\AKRITI GUPTA\OneDrive\Desktop\C#\C-sharp-.Net\bin\Debug\net6.0\C-sharp-.Net.deps.json
+C:\Users\AKRITI GUPTA\OneDrive\Desktop\C#\C-sharp-.Net\bin\Debug\net6.0\C-sharp-.Net.runtimeconfig.json
+C:\Users\AKRITI GUPTA\OneDrive\Desktop\C#\C-sharp-.Net\bin\Debug\net6.0\C-sharp-.Net.dll
+C:\Users\AKRITI GUPTA\OneDrive\Desktop\C#\C-sharp-.Net\bin\Debug\net6.0\C-sharp-.Net.pdb
+C:\Users\AKRITI GUPTA\OneDrive\Desktop\C#\C-sharp-.Net\obj\Debug\net6.0\C-sharp-.Net.genruntimeconfig.cache
+C:\Users\AKRITI GUPTA\OneDrive\Desktop\C#\C-sharp-.Net\obj\Debug\net6.0\ref\C-sharp-.Net.dll
