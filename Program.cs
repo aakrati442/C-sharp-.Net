@@ -32,6 +32,8 @@ Console.WriteLine("Enter your name");
 string name=Console.ReadLine();
 Console.WriteLine("Hello "+ name);
 
+int d=0;
+Console.WriteLine(int.MinValue);
 
 
 
